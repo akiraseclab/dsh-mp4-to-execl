@@ -1,0 +1,50 @@
+{
+  "sheets": {
+    "Sheet1": {
+      "allowed_cells": [
+        "C2",
+        "B4",
+        "C4",
+        "E4",
+        "F4",
+        "G4",
+        "H4",
+        "I4",
+        "K4"
+      ],
+      "protected_cells": [
+        "C1",
+        "A2",
+        "A3",
+        "B3",
+        "C3",
+        "D3",
+        "E3",
+        "F3",
+        "G3",
+        "H3",
+        "I3",
+        "J3",
+        "K3",
+        "A4"
+      ],
+      "cells": {
+        "C2": "竖版9:16，时长32s",
+        "B4": "开头钩子",
+        "C4": "示例：产品包装特写，随后切换到操作画面",
+        "E4": "特写",
+        "F4": "定镜头+快切",
+        "G4": "[示例占位，实际台词需要核实]",
+        "H4": 2,
+        "I4": "产品包装",
+        "K4": "室内"
+      },
+      "allowed_images": [
+        "xl/drawings/drawing1.xml#0"
+      ],
+      "images": {
+        "xl/drawings/drawing1.xml#0": "REPLACE_WITH_ABSOLUTE_SCREENSHOT_PATH.jpg"
+      }
+    }
+  }
+}
