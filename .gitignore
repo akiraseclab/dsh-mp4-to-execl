@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+video-script-output/
+work/
+assets/default-template.xlsx
+assets/blank.jpg
